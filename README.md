@@ -16,8 +16,7 @@ In complex AUTOMATIC1111 workflows, managing interrupt and skip behavior can bec
 To use Brake Light in your AUTOMATIC1111 workflow:
 1. **Download or clone** the repository
 2. **Create a folder named `brake_light`** inside your AUTOMATIC1111 `extensions` directory.
-3. **Place the contents of this repository** into that `brake_light` folder:
-```/extensions/brake_light```
+3. **Place the contents of this repository** into that `brake_light` folder.
 4. **Restart AUTOMATIC1111** if it's already running.
 
 ## Usage
