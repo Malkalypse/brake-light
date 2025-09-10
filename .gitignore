@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Packaging artifacts (optional, future-proofing)
+*.egg-info/
+dist/
+build/
